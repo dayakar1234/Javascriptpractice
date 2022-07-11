@@ -42,3 +42,4 @@ const yearsUntilRetirement = (birthYear, firstName) => {
 console.log('yearsUntilRetirementLeft', yearsUntilRetirement(1991, 'daya'));
 const retirementage = yearsUntilRetirement(1991, 'daya');
 console.log('retirementage', retirementage);
+console.log('retirementage1', retirementage);
